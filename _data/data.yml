@@ -1,0 +1,175 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Ian Currie Sedano
+    tagline: Developer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: iansedano@gmail.com
+    phone: +34 627 768 778
+    website: iansedano.com #do not add http://
+    linkedin: ian-currie-82448a58
+    github: iansedano
+    #gitlab:
+    #bitbucket:
+    twitter: '@iansedano'
+    stack-overflow: 10445017/ian-currie
+    codewars: iansedano
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Native
+
+      - idiom: Spanish
+        level: Native
+
+      - idiom: Catalan & French
+        level: Familiarity
+
+    interests:
+      - item: Go
+        link: online-go.com/player/690066/
+
+      - item: Music
+        link: 
+
+      - item: Cooking
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Seeking first formal position in tech. Will travel/relocate. Experienced with remote work.
+      Convinced by friends and colleagues to change industry due to affinity with tech.
+      All working and residency papers in order. Can drive.
+
+education:
+    - degree: BSc Psychology
+      university: The Open University
+      #time: 2011 - 2012
+      #details: |
+      #  Describe your study here
+      #  pretium quis, sem.
+      #    - Bullet point
+      #    - Bullet point
+    - degree: A-level - Physics, Maths, Spanish, Art
+    #  university: Bristol University
+    #  time: 2007 - 2011
+    #  details: |
+    #    Describe your study here
+    #    pretium quis, sem.
+    #      - Bullet point
+    #      - Bullet point
+experiences:
+    - role: Senior Shipping and Data Manager
+      time: 2016 - Present
+      company: Haclyon Art International
+      details: |
+        High value goods, managing data, accounts, inventory, supply-chain, import/export, customs,
+        special shipments (i.e. 12m sculptures), and complex operations involving many parties.
+          - Lots of project management
+          - Plenty data mangament (no dedicated software team)
+    - role: Shipping and Data Manager
+      time: 2012 - 2016
+      company: Fundición Artística Vilà
+      details: |
+        Bringing a foundry into the digital age.
+        Designing databases, best practices, managing ordering, inventory, shipping and accounting
+        information for international operations. Implementation of tracking software.
+          - Bullet point
+          - Bullet point
+
+projects:
+    title: Projects
+    intro: 
+    assignments:
+      - title: Twitter Bot
+        link: "https://github.com/iansedano/twitbotto"
+        tagline: "Summarizing current trends with beautiful word clouds."
+        photo: https://www.dropbox.com/s/f78jt3elvnpuert/2020-05-07_developer.png?raw=1
+
+      - title: Racing AI
+        link: "https://github.com/iansedano/coders_strike_back"
+        tagline: "Made for competition, ranked in top 1% worldwide. Written in Python."
+        photo: https://www.dropbox.com/s/iz2oatmels4mt8a/racer.png?raw=1
+
+      - title: Lander AI
+        link: "http://www.iansedano.com/Simple_Baduk/"
+        tagline: "Made for competition, ranked in top 15%. Written in Python."
+        photo: https://www.dropbox.com/s/pmxvey44i0dqywn/lander.png?raw=1
+
+      - title: Simple Baduk
+        link: "https://github.com/iansedano/Simple_Baduk"
+        tagline: "A no frills, vanilla Javascript go board with capturing algorithm."
+        photo: https://www.dropbox.com/s/ach06naaq27wtk7/go_capture.png?raw=1
+
+      - title: Audio-visual performance Machine
+        link: "#"
+        tagline: "A futuristic music performance pod."
+        photo: https://www.dropbox.com/s/couxa05umrlbwty/synth.png?raw=1
+
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python
+        description: Great community, docs, and libraries. If I have to think through a problem, I find I tend to be thinking in Python.
+
+      - name: Javascript
+        description: It's everywhere and everyone can run it. This is what attracted me to it.
+
+      - name: VBA & Excel
+        description: I had no choice. Though in seriousness, it was my 'breakthrough' language, and though problematic, without excel many people in this world would be lost. With VBA I started to understand programming as a whole and since then my learning has just accelerated.
+
+      - name: Git
+        description: Use it on everything.
+      
+      - name: HTML, CSS & SCSS, Markdown
+        description: Have used regularly on many websites, some with only HTML and CSS.
+
+      - name: Jekyll, Ruby, Wordpress
+        description: to take care of our HTML and CSS.
+
+      - name: Plesk, FTP, PHP, SQL
+        description: to manage server.
+
+      - name: noSQL, mongoDB
+        description: recent romance.
+
+      - name: Rails, Django
+        description: Some familiarity (online courses).
+
+      - name: Other tools
+        description: Rest-API, Regex, AHK (GUI automation), MIDI (for music)
+
+      - name: Operating Systems
+        description: Longtime Windows user, Windows Subsystem for Linux, Linux (Ubuntu), OSX
+
+      - name: Text editors
+        description: Sublime Text, Notepad ++, Visual Studio Code, Pycharm, VBA editor.
+
+      - name: Other software
+        description: Office package, photoshop/gimp, illustrator/inkscape, Video Editors (Shotcut, Premiere), ffmpeg, CAD software (sketchup, freeCAD), Digital Audio Workstation (Reaper, Audacity, Ableton Live)
+
+footer: >
+    Designed with <i class="fas fa-keyboard"></i> by Ian
