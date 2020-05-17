@@ -25,14 +25,29 @@ sidebar:
     #goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: Python
+        #level: 
 
-      - idiom: Spanish
-        level: Native
+      - idiom: Javascript
+        #level: Second.
 
-      - idiom: Catalan & French
-        level: Familiarity
+      - idiom: Git
+        #level: Love it
+
+      - idiom: Front-end
+        level: HTML, CSS, SASS, Markdown, YML
+
+      - idiom: Back-end
+        level: Rest-API, Jekyll, Wordpress, Ruby, FTP, PHP, Plesk, SQL
+
+      - idiom: Other tools
+        level: Regex, AHK
+
+      - idiom: OS
+        level: Windows, Windows Subsytem for Linux, Linux (Ubuntu), OSX
+
+      - idiom: Software
+        level: Office package, photoshop/gimp, illustrator/inkscape, Video Editors (Shotcut, Premiere), ffmpeg, CAD software (sketchup, freeCAD), Digital Audio Workstation (Reaper, Audacity, Ableton Live)
 
     interests:
       - item: Go
@@ -41,15 +56,17 @@ sidebar:
       - item: Music
         link: 
 
-      - item: Cooking
+      - item: Dogs
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Seeking first formal position in tech. Will travel/relocate. Experienced with remote work.
-      Convinced by friends and colleagues to change industry due to affinity with tech.
-      All working and residency papers in order. Can drive.
+      Proven track record of analytical and problem solving abilities, with an organized approach. Work well with teams, experienced with remote work. Skilled at mediation between providers and clients.
+
+      Seeking first formal position in tech as pursuaded by colleagues and friends who tell me that coding is what I am good for! Will travel/relocate.
+
+      All EU working, residency and driving papers in order.
 
 education:
     - degree: BSc Psychology
@@ -60,7 +77,7 @@ education:
       #  pretium quis, sem.
       #    - Bullet point
       #    - Bullet point
-    - degree: A-level - Physics, Maths, Spanish, Art
+    - degree: A-level - Physics, Maths, Spanish
     #  university: Bristol University
     #  time: 2007 - 2011
     #  details: |
@@ -68,24 +85,48 @@ education:
     #    pretium quis, sem.
     #      - Bullet point
     #      - Bullet point
+    - degree: "**"
+
+    - degree: English
+      university: native (mother tongue)
+    
+    - degree: Spanish
+      university: native
+    
+    - degree: French & Catalan
+      university: familiarity
+    
 experiences:
-    - role: Senior Shipping and Data Manager
+    - role: Logistics manager and Developer
       time: 2016 - Present
       company: Haclyon Art International
       details: |
-        High value goods, managing data, accounts, inventory, supply-chain, import/export, customs,
-        special shipments (i.e. 12m sculptures), and complex operations involving many parties.
-          - Lots of project management
-          - Plenty data mangament (no dedicated software team)
-    - role: Shipping and Data Manager
+
+        Moving massive sculptures.
+
+          - Logistics special project management, import/export, customs, high value goods international teams, mediation, breaking down complex procedures, deadlines. Oversee regular supply chain.
+
+          - Accounting assistance, critical data, implementing methodologies, scripts, checking consistency, merging data, translation and mediation.
+
+          - Created object model within VBA. Create tools for colleagues within Excel. Debugging, Git, Continous Delivery, own initiative.
+
+          - Web development, Plesk, Wordpress, Jekyll, HTML, CSS.
+
+    - role: Logistics manager and Developer
       time: 2012 - 2016
       company: Fundición Artística Vilà
       details: |
         Bringing a foundry into the digital age.
-        Designing databases, best practices, managing ordering, inventory, shipping and accounting
-        information for international operations. Implementation of tracking software.
-          - Bullet point
-          - Bullet point
+
+          - Proposed, led research, selection, and implementation of a time tracking solution in a factory setting. Modelled data and processes, observed behaviours, mediated, delivered.
+
+          - Designed database structure for parent company, used to implement their ERP system.
+
+          - Logistics special project management - as above.
+
+          - Accounting assistance - as above.
+
+          
 
 projects:
     title: Projects
@@ -103,7 +144,7 @@ projects:
 
       - title: Lander AI
         link: "http://www.iansedano.com/Simple_Baduk/"
-        tagline: "Made for competition, ranked in top 15%. Written in Python."
+        tagline: Made for competition, ranked in top 15%. Written in Python.
         photo: https://www.dropbox.com/s/pmxvey44i0dqywn/lander.png?raw=1
 
       - title: Simple Baduk
@@ -111,7 +152,7 @@ projects:
         tagline: "A no frills, vanilla Javascript go board with capturing algorithm."
         photo: https://www.dropbox.com/s/ach06naaq27wtk7/go_capture.png?raw=1
 
-      - title: Audio-visual performance Machine
+      - title: Music Machine
         link: "#"
         tagline: "A futuristic music performance pod."
         photo: https://www.dropbox.com/s/couxa05umrlbwty/synth.png?raw=1
@@ -128,8 +169,8 @@ projects:
 #        authors: Donald E. Knuth
 #        conference: Addison-Wesley, 1968
 
-skills:
-    title: Skills &amp; Proficiency
+#skills:
+#    title: Skills &amp; Proficiency
 
     toolset:
       - name: Python

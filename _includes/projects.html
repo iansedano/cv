@@ -9,33 +9,33 @@
     </span>
     {{ projects.title }}
   </h2>
-
+  <br>
   {% if projects.intro %}
-  <div class="intro">
+  <div class="intro" style="float:left;">
       <p>{{ projects.intro }}</p>
   </div><!--//intro-->
   {% endif %}
 
   {% for project in projects.assignments %}
-    <div class="item">
+    <div class="item" style = "display: flex;">
       {% if project.photo %}
         <div class="project-photo">
-        <img src="{{ project.photo }}" style="width:70px;height:70px;"><br><br>
+        <img src="{{ project.photo }}" style="width:70px;height:70px; vertical-align: middle;margin-right:10px;"><br><br>
         </div>
       {% endif %}
 
-      <span class="project-title">
+      <div class="project-title" style="width:200px; vertical-align: middle; margin-right:10px;">
         {% if project.link %}
         <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
         {% else %}
         {{ project.title }}
         {% endif %}
-      </span>
+      </div>
 
       {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
+      <div class="project-tagline" style="width:400px;">{{ project.tagline }}</div>
       {% endif %}
-
+    
       
 
     </div><!--//item-->
