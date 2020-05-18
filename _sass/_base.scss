@@ -2,7 +2,7 @@
 body {
     font-family: 'Fira Code', monospace;
     color: $text-color-secondary;
-    background: rgb(255, 255, 204);
+    background: rgb(239, 233, 183);
     font-size: 14px;
     font-weight: 900;
     padding: 30px;
@@ -21,7 +21,7 @@ h6 {
 }
 
 a {
-    color: darken($theme-color, 15%);
+     color: darken($theme-color, 15%);
 
     &:hover {
         text-decoration: underline;

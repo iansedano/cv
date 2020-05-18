@@ -17,22 +17,18 @@ sidebar:
     website: iansedano.com #do not add http://
     linkedin: ian-currie-82448a58
     github: iansedano
-    #gitlab:
-    #bitbucket:
-    twitter: '@iansedano'
+    #twitter: '@iansedano'
     stack-overflow: 10445017/ian-currie
-    codewars: iansedano
-    #goodreads: # Number-Username, e.g. 123456-alandoe
+    #codewars: iansedano
 
     languages:
-      - idiom: Python
-        #level: 
+      - idiom: Python <img src="https://www.dropbox.com/s/rfisej9n9xny58p/python_icon.png?raw=1" width=50px align:"left">
 
-      - idiom: Javascript
-        #level: Second.
+      - idiom: Javascript <img src="https://www.dropbox.com/s/w3qyxvxvvkredz6/js_icon.png?raw=1" width=25px>
 
-      - idiom: Git
-        #level: Love it
+      - idiom: Git <img src="https://www.dropbox.com/s/2agm6dvhfh3otp2/git_icon.png?raw=1" width=25px>
+
+      - idiom: VBA <img src="https://www.dropbox.com/s/3fmt3obrbh76ct1/vba_logo.png?raw=1" width=25px>
 
       - idiom: Front-end
         level: HTML, CSS, SASS, Markdown, YML
@@ -126,6 +122,8 @@ experiences:
 
           - Accounting assistance - as above.
 
+          - Web development - as above.
+
           
 
 projects:
@@ -157,60 +155,6 @@ projects:
         tagline: "A futuristic music performance pod."
         photo: https://www.dropbox.com/s/couxa05umrlbwty/synth.png?raw=1
 
-#publications:
-#    title: Publications
-#    intro: |
-#      You can list your publications in this section. Lorem ipsum dolor sit
-#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#      bibendum fringilla a eu lectus.
-#    papers:
-#      - title: The Art of Computer Programming
-#        link: "#"
-#        authors: Donald E. Knuth
-#        conference: Addison-Wesley, 1968
-
-#skills:
-#    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python
-        description: Great community, docs, and libraries. If I have to think through a problem, I find I tend to be thinking in Python.
-
-      - name: Javascript
-        description: It's everywhere and everyone can run it. This is what attracted me to it.
-
-      - name: VBA & Excel
-        description: I had no choice. Though in seriousness, it was my 'breakthrough' language, and though problematic, without excel many people in this world would be lost. With VBA I started to understand programming as a whole and since then my learning has just accelerated.
-
-      - name: Git
-        description: Use it on everything.
-      
-      - name: HTML, CSS & SCSS, Markdown
-        description: Have used regularly on many websites, some with only HTML and CSS.
-
-      - name: Jekyll, Ruby, Wordpress
-        description: to take care of our HTML and CSS.
-
-      - name: Plesk, FTP, PHP, SQL
-        description: to manage server.
-
-      - name: noSQL, mongoDB
-        description: recent romance.
-
-      - name: Rails, Django
-        description: Some familiarity (online courses).
-
-      - name: Other tools
-        description: Rest-API, Regex, AHK (GUI automation), MIDI (for music)
-
-      - name: Operating Systems
-        description: Longtime Windows user, Windows Subsystem for Linux, Linux (Ubuntu), OSX
-
-      - name: Text editors
-        description: Sublime Text, Notepad ++, Visual Studio Code, Pycharm, VBA editor.
-
-      - name: Other software
-        description: Office package, photoshop/gimp, illustrator/inkscape, Video Editors (Shotcut, Premiere), ffmpeg, CAD software (sketchup, freeCAD), Digital Audio Workstation (Reaper, Audacity, Ableton Live)
-
+    
 footer: >
     Designed with <i class="fas fa-keyboard"></i> by Ian
