@@ -50,10 +50,10 @@ sidebar:
         link: online-go.com/player/690066/
 
       - item: Music
-        link: 
+        link: http://www.iansedano.com/music/
 
       - item: Dogs
-        link:
+        link: 
 
 career-profile:
     title: Career Profile
@@ -74,13 +74,7 @@ education:
       #    - Bullet point
       #    - Bullet point
     - degree: A-level - Physics, Maths, Spanish
-    #  university: Bristol University
-    #  time: 2007 - 2011
-    #  details: |
-    #    Describe your study here
-    #    pretium quis, sem.
-    #      - Bullet point
-    #      - Bullet point
+    
     - degree: "**"
 
     - degree: English
@@ -141,7 +135,7 @@ projects:
         photo: https://www.dropbox.com/s/iz2oatmels4mt8a/racer.png?raw=1
 
       - title: Lander AI
-        link: "http://www.iansedano.com/Simple_Baduk/"
+        link: "https://github.com/iansedano/mars_lander"
         tagline: Made for competition, ranked in top 15%. Written in Python.
         photo: https://www.dropbox.com/s/pmxvey44i0dqywn/lander.png?raw=1
 
@@ -151,7 +145,7 @@ projects:
         photo: https://www.dropbox.com/s/ach06naaq27wtk7/go_capture.png?raw=1
 
       - title: Music Machine
-        link: "#"
+        link: "http://www.iansedano.com/music/2018-12-15-time_machine/"
         tagline: "A futuristic music performance pod."
         photo: https://www.dropbox.com/s/couxa05umrlbwty/synth.png?raw=1
 
