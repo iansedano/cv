@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Ian Currie Sedano
-    tagline: Software Engineer
+    tagline: Developer
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -34,7 +34,7 @@ sidebar:
         level: HTML 5, CSS, SASS, Markdown, YML, React
 
       - idiom: Back-end
-        level: Rest-API, Jekyll, Wordpress, Ruby, FTP, PHP, Plesk, SQL
+        level: Rest-API, Jekyll, Wordpress, Ruby, FTP, PHP, Plesk, SQL, Bash
 
       - idiom: Other tools
         level: Regex, AHK
@@ -87,11 +87,11 @@ education:
       university: familiarity
     
 experiences:
-    - role: Junior Software Engineer
+    - role: Junior Developer
       time: Recent
       company: Wintergatan community
       details: |
-        Creating a virtual marble machine for people to compose music with.
+        Voluntary Position - Creating a virtual marble machine for people to compose music with.
 
           - With three others, proposed and led design meetings and schema writing for the project.
 
