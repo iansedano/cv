@@ -136,7 +136,7 @@ experiences:
 
 projects:
     title: Projects
-    intro: 
+    intro: A selection of personal software projects.
     assignments:
       - title: Twitter Bot
         link: "https://github.com/iansedano/twitbotto"

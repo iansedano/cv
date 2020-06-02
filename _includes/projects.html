@@ -11,7 +11,7 @@
   </h2>
   <br>
   {% if projects.intro %}
-  <div class="intro" style="float:left;">
+  <div class="intro">
       <p>{{ projects.intro }}</p>
   </div><!--//intro-->
   {% endif %}
@@ -20,7 +20,9 @@
     <div class="item" style = "display: flex;">
       {% if project.photo %}
         <div class="project-photo">
-        <img src="{{ project.photo }}" style="width:70px;height:70px; vertical-align: middle;margin-right:10px;"><br><br>
+        <a href="{{ project.link }}">
+          <img src="{{ project.photo }}" style="width:70px;height:70px; vertical-align: middle;margin-right:10px;">
+        </a><br><br>
         </div>
       {% endif %}
 
