@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Ian Currie Sedano
-    tagline: Junior Software Engineer
+    tagline: Junior Software Developer
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -58,11 +58,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a software engineer and aspiring architect with a passion for learning and building as much as possible with clean, re-usable code.
+      I am a software developer, aspiring full-stack engineer / product engineer, with a passion for learning and creating clean, re-usable code in an agile environment.
 
-      Love agile methodologies as the iterative dynamic of getting stuck in to a problem, but also reserving a time to  reflect on the bigger picture, methodologies and design principles, is how I work best and how to adapt to any problem.
-
-      I have had a varied professional background and I have always been shaped by my ease with IT. From personal fun coding projects, automating unwieldy excels, writing VBA applications, deploying websites and even leading the implementation of a modern time tracking solution in a factory - I have communicated effectively, taught best practices and brought software and hardware solutions to anywhere I have worked.
+      I have had a varied professional background and have always been shaped by my ease with IT. From personal coding projects, arduinos, automating unwieldy excels, writing VBA applications, deploying websites and even leading the implementation of a modern time tracking solution in a factory - I have communicated effectively, taught best practices and brought software and hardware solutions to anywhere I have worked.
 
       Will travel/relocate.
       All EU working, residency and driving papers in order.
@@ -89,17 +87,15 @@ education:
       university: familiarity
     
 experiences:
-    - role: Junior Software Engineer
+    - role: Junior Software Developer
       time: Recent
       company: Wintergatan community
       details: |
         Voluntary Position - Creating a virtual marble machine for people to compose music with.
 
-          - With three others, proposed and led design meetings and schema object design.
+          - So far contributed to starting project, design meetings and schema writing. It was challenging due to the amount of people involved and the diverging viewpoints. I tried to steer the project towards a modular and incremental approach. I provided the first UI mock-ups and examples which clarified the use cases and requirements of the software. Development is in progress.
 
-          - Working with Github fork & pull method, Typescript and React.
-
-          - Communicating and documentation in Open Source environment with many contributors.
+          - Working with Github, Typescript, Prettier, React, Node, and possibly Docker.
 
 
     - role: Logistics manager and Developer
